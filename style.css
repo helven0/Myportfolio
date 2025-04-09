@@ -226,13 +226,13 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Light Novel Reader";
+        content: "Reader";
     }
     21%, 40%{
-        content: "IT Security Student";
+        content: "IT security novice";
     }
     41%, 60%{
-        content: "Networking Student";
+        content: "Networking novice";
     }
     61%, 80%{
         content: "Music Listener";
